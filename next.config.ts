@@ -7,19 +7,9 @@
 // export default nextConfig;
 
 
-/** 
-//  @type {import('next').NextConfig} */
-// const nextConfig = {
-//   output: 'export',
-//   distDir: 'docs',
-//   images: {
-//     unoptimized: true,
-//   },
-// };
 
-// module.exports = nextConfig;
-
-const repoName = 'Printing-press';
+/** @type {import('next').NextConfig} */
+const repoName = 'Printing-press'; // <-- change this to your exact GitHub repo name
 
 const nextConfig = {
   output: 'export',
@@ -32,4 +22,6 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
+
+
 
