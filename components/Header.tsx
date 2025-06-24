@@ -13,7 +13,7 @@ export default function Header() {
         href="tel:9414010177"
         className="ml-4 bg-teal-500 hover:bg-teal-400 text-white px-4 py-2 rounded-lg transition"
       >
-        📞 9414010177
+        📞Contact Us
       </a>
     </header>
   );
